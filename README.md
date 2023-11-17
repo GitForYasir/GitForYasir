@@ -1,4 +1,4 @@
-[![MasterHead](https://skwebdesigner.co.in/wp-content/uploads/2022/04/banner-bg.gif)]
+![MasterHead](https://skwebdesigner.co.in/wp-content/uploads/2022/04/banner-bg.gif)
 <h1 align="center">Hi 👋, I'm Yasir Zaman</h1>
 <h3 align="center">A passionate an android developer from Pakistan</h3>
 
