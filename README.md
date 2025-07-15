@@ -1,12 +1,12 @@
-![MasterHead](https://github.com/GitForYasir/GitForYasir/blob/8cb5c3312017d3416c2501632710802e400c36d1/githubBanner.png?raw=true)
+![MasterHead](https://raw.githubusercontent.com/GitForYasir/GitForYasir/refs/heads/main/githubBanner2.png)
 
 # Hi  👋 I'm YasirZaman a.k.a AndroidAlChemist
 
 🎯 Android Developer & Architect | Kotlin Expert 
 
-🔭 Building advanced Android apps
-🌱 Exploring Jetpack Compose, Hilt & ML
-💬 Ask me about Android, Firebase & MVVM
+- 🔭 Building advanced Android apps <br>
+- 🌱 Exploring Jetpack Compose, Hilt & ML<br>
+- 💬 Ask me about Android, Firebase & MVVM
 
 📫 *Reach me*: [LinkedIn](https://www.linkedin.com/in/yasir-zaman-appdev/) | [Email](https://mail.google.com/mail/?view=cm&fs=1&to=yasirffm777@gmail.com)
 
